@@ -1,2 +1,2 @@
-# rtJRVC
+# rtJVC
 RealTime Japanese Voice Conversion
